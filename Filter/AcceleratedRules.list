@@ -1,20 +1,31 @@
 # CDN
-DOMAIN-SUFFIX,jsdelivr.net,PROXY
-DOMAIN-SUFFIX,cloudfront.net,PROXY
+HOST-SUFFIX,jsdelivr.net,PROXY
+HOST-SUFFIX,cloudfront.net,PROXY
+HOST-SUFFIX,amazonaws.com,PROXY
+HOST-SUFFIX,cloudfront.net,PROXY
 # F1
-#DOMAIN-SUFFIX,formula1.com,PROXY
+#HOST-SUFFIX,formula1.com,PROXY
+# Microsoft
+HOST,appcenter.ms,PROXY
+HOST,azureedge.net,PROXY
 # Notion
-DOMAIN-SUFFIX,notion.so,PROXY
-DOMAIN-SUFFIX,notion.site,PROXY
-DOMAIN-SUFFIX,notion-static.com,PROXY
+HOST-SUFFIX,notion.so,PROXY
+HOST-SUFFIX,notion.site,PROXY
+HOST-SUFFIX,notion-static.com,PROXY
 # Podcast
-DOMAIN-SUFFIX,soundon.fm,PROXY
-# Microsoft AppCenter
-HOST,install.appcenter.ms,PROXY
-HOST,mobilecenter.azureedge.net,PROXY
+HOST-SUFFIX,soundon.fm,PROXY
+# Testfairy
+HOST-SUFFIX,testfairy.com,PROXY
+# v2ex
+HOST-SUFFIX,v2ex.com,PROXY
 # Video
-DOMAIN-SUFFIX,lzizy9.com,PROXY
-DOMAIN-SUFFIX,cdnlz1.com,PROXY
-DOMAIN-SUFFIX,olevod.com,PROXY
-DOMAIN-SUFFIX,olelive.com,PROXY
-DOMAIN-SUFFIX,tmdb.org,PROXY
+HOST-SUFFIX,lzizy9.com,PROXY
+HOST-SUFFIX,cdnlz1.com,PROXY
+HOST-SUFFIX,olevod.com,PROXY
+HOST-SUFFIX,olelive.com,PROXY
+HOST-SUFFIX,tmdb.org,PROXY
+HOST-SUFFIX,avgle.com,PROXY
+HOST-SUFFIX,jable.tv,PROXY
+HOST-SUFFIX,t66y.com,PROXY
+HOST-SUFFIX,rouman5.com,PROXY
+HOST-SUFFIX,jcomic.net,PROXY
